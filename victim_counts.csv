@@ -1,0 +1,6 @@
+cluster_label,cnn,fox,nyt,wsj
+aftermath/casualties,2,1,4,1
+child/student victims,62,70,71,52
+counts/inclusion,9,5,0,1
+coverage/inclusion,4,0,0,1
+noise/fragments,20,12,33,6

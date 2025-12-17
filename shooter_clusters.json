@@ -1,0 +1,1327 @@
+[
+  {
+    "cluster": 11,
+    "label": "gunman, shooter, 18-year-old",
+    "auto_label": "gunman, shooter, 18-year-old",
+    "size": 106,
+    "top_outlets": [
+      [
+        "cnn",
+        39
+      ],
+      [
+        "fox",
+        28
+      ],
+      [
+        "wsj",
+        21
+      ],
+      [
+        "nyt",
+        18
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "a gunman",
+        "outlet": "cnn",
+        "article": "cnn_10_May25"
+      },
+      {
+        "phrase": "An 18-year-old gunman",
+        "outlet": "cnn",
+        "article": "cnn_12_May25"
+      },
+      {
+        "phrase": "old gunman",
+        "outlet": "cnn",
+        "article": "cnn_12_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "old gunman",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's intentions",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's grandmother",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's phone",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's grandma",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "cnn",
+        "article": "cnn_14_May25"
+      },
+      {
+        "phrase": "An 18-year-old gunman",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "old gunman",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "The suspect",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "the gunman",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "A suspect",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "an \"active shooter",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "active shooter",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "cnn",
+        "article": "cnn_20_May25"
+      },
+      {
+        "phrase": "deranged gunmen",
+        "outlet": "cnn",
+        "article": "cnn_22_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "old gunman",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's intentions",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's grandmother",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's phone",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "the 18-year-old gunman's grandma",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "A suspect",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "an \"active shooter",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "active shooter",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "an \"active shooter",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "active shooter",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "the shooter, 18-year-old Salvador Ramos",
+        "outlet": "cnn",
+        "article": "cnn_4_May24"
+      },
+      {
+        "phrase": "the shooter, 18-year-old Salvador Ramos,'s grandmother",
+        "outlet": "cnn",
+        "article": "cnn_4_May24"
+      },
+      {
+        "phrase": "An 18-year-old gunman",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "old gunman",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "The shooter",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "An 18-year-old gunman's grandmother",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "The 18-year-old shooter",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "old shooter",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "the suspected gunman",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "suspected gunman",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "61 active shooter incidents",
+        "outlet": "fox",
+        "article": "FOX_2_May24"
+      },
+      {
+        "phrase": "52.5% more active shooter incidents",
+        "outlet": "fox",
+        "article": "FOX_2_May24"
+      },
+      {
+        "phrase": "\"Active Shooter Incidents",
+        "outlet": "fox",
+        "article": "FOX_2_May24"
+      },
+      {
+        "phrase": "an \"active shooter",
+        "outlet": "fox",
+        "article": "FOX_2_May24"
+      },
+      {
+        "phrase": "active shooter",
+        "outlet": "fox",
+        "article": "FOX_2_May24"
+      },
+      {
+        "phrase": "the suspect",
+        "outlet": "fox",
+        "article": "FOX_3_May24"
+      },
+      {
+        "phrase": "a now-deceased suspect",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "deceased suspect",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "the deceased suspect",
+        "outlet": "fox",
+        "article": "FOX_6_May24"
+      },
+      {
+        "phrase": "deceased suspect",
+        "outlet": "fox",
+        "article": "FOX_6_May24"
+      },
+      {
+        "phrase": "SUSPECTED SHOOTER DEAD",
+        "outlet": "fox",
+        "article": "FOX_7_May24"
+      },
+      {
+        "phrase": "A shooter",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "A suspected lone gunman",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "suspected lone gunman",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "the alleged gunman",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "alleged gunman",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "school shooter",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "the suspect",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "SUSPECTED SHOOTER",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "suspected gunman SalvadorRamos",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "The suspect",
+        "outlet": "fox",
+        "article": "Fox_18"
+      },
+      {
+        "phrase": "the alleged shooter",
+        "outlet": "fox",
+        "article": "Fox_20"
+      },
+      {
+        "phrase": "alleged shooter",
+        "outlet": "fox",
+        "article": "Fox_20"
+      },
+      {
+        "phrase": "every mass shooter",
+        "outlet": "fox",
+        "article": "Fox_20"
+      },
+      {
+        "phrase": "mass shooter",
+        "outlet": "fox",
+        "article": "Fox_20"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "an 18-year-old gunman",
+        "outlet": "nyt",
+        "article": "NYT_11_May26"
+      },
+      {
+        "phrase": "old gunman",
+        "outlet": "nyt",
+        "article": "NYT_11_May26"
+      },
+      {
+        "phrase": "the shooting suspect",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "shooting suspect",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "nyt",
+        "article": "NYT_16_May26"
+      },
+      {
+        "phrase": "The gunman",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "the gunman",
+        "outlet": "nyt",
+        "article": "NYT_19_May26"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "nyt",
+        "article": "NYT_21_May26"
+      },
+      {
+        "phrase": "an active shooter drill",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "the shooter",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "old gunman",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "the shooter",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "A gunman",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "earlier fatally shoot",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "A gunman",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "The gunman",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "nyt",
+        "article": "NYT_9_May26"
+      },
+      {
+        "phrase": "the gunman",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "the gunman",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "the gunman evil",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "the shooter the gunman",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "a killer",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "the shooter",
+        "outlet": "wsj",
+        "article": "WSJ_13_May28"
+      },
+      {
+        "phrase": "the gunman",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "an active shooter",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "active shooter",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "the gunman",
+        "outlet": "wsj",
+        "article": "WSJ_15_May28"
+      },
+      {
+        "phrase": "The gunman",
+        "outlet": "wsj",
+        "article": "WSJ_16_May26"
+      },
+      {
+        "phrase": "an active shooter",
+        "outlet": "wsj",
+        "article": "WSJ_17_May28"
+      },
+      {
+        "phrase": "active shooter",
+        "outlet": "wsj",
+        "article": "WSJ_17_May28"
+      },
+      {
+        "phrase": "teenage gunmen",
+        "outlet": "wsj",
+        "article": "WSJ_20_May31"
+      },
+      {
+        "phrase": "the gunman",
+        "outlet": "wsj",
+        "article": "WSJ_25_May27"
+      },
+      {
+        "phrase": "the mass shooter",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "mass shooter",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "the shooter",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "a gunman",
+        "outlet": "wsj",
+        "article": "WSJ_4_May26"
+      },
+      {
+        "phrase": "The gunman",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "school shooter",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "label": "noise",
+    "auto_label": "noise",
+    "size": 59,
+    "top_outlets": [
+      [
+        "cnn",
+        21
+      ],
+      [
+        "fox",
+        14
+      ],
+      [
+        "wsj",
+        13
+      ],
+      [
+        "nyt",
+        11
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "when come in",
+        "outlet": "cnn",
+        "article": "cnn_10_May25"
+      },
+      {
+        "phrase": "complain",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "when come in",
+        "outlet": "cnn",
+        "article": "cnn_14_May25"
+      },
+      {
+        "phrase": "legally purchase",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "identify",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "reveal",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "purchase",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "take",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "take down",
+        "outlet": "cnn",
+        "article": "cnn_22_May25"
+      },
+      {
+        "phrase": "complain",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "take",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "believe",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "rush",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "clad in body armor",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "clad in body armor's way into a Texas elementary school",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "believe",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "clad in body armor's grandmother",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "try",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "engage",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "arm",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "arrive",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "DEAD",
+        "outlet": "fox",
+        "article": "FOX_10_May24"
+      },
+      {
+        "phrase": "identify",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "bureaudefine",
+        "outlet": "fox",
+        "article": "FOX_2_May24"
+      },
+      {
+        "phrase": "who Texas Governor Greg Abbott identified as local resident Salvador Romas, a shooting Robb Elementary School",
+        "outlet": "fox",
+        "article": "FOX_3_May24"
+      },
+      {
+        "phrase": "open",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "accuse",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "identify",
+        "outlet": "fox",
+        "article": "FOX_6_May24"
+      },
+      {
+        "phrase": "DEAD",
+        "outlet": "fox",
+        "article": "FOX_8_May24"
+      },
+      {
+        "phrase": "identified as Salvador Romas",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "also die",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "this horrific loss",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "dead",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "claim",
+        "outlet": "fox",
+        "article": "Fox_20"
+      },
+      {
+        "phrase": "when break",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "seek",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "could",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "then wound",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "successfully contain",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "when burst",
+        "outlet": "nyt",
+        "article": "NYT_21_May26"
+      },
+      {
+        "phrase": "not realize",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "arm",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "also die",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "walk",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "then wound",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "successfully contain",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "here enter",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "how walk",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "why stop",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "fire",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "describe",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "a man named Hamilton",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "mean",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "regard",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "enter",
+        "outlet": "wsj",
+        "article": "WSJ_25_May27"
+      },
+      {
+        "phrase": "confront",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "send",
+        "outlet": "wsj",
+        "article": "WSJ_4_May26"
+      },
+      {
+        "phrase": "write",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "go",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      }
+    ]
+  },
+  {
+    "cluster": 12,
+    "label": "kill, shoot, just",
+    "auto_label": "kill, shoot, just",
+    "size": 21,
+    "top_outlets": [
+      [
+        "cnn",
+        10
+      ],
+      [
+        "nyt",
+        5
+      ],
+      [
+        "fox",
+        3
+      ],
+      [
+        "wsj",
+        3
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_12_May25"
+      },
+      {
+        "phrase": "just shoot",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "fatally shoot",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "murder",
+        "outlet": "cnn",
+        "article": "cnn_20_May25"
+      },
+      {
+        "phrase": "just shoot",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "also shoot",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "likely kill",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "where kill",
+        "outlet": "nyt",
+        "article": "NYT_11_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_16_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      }
+    ]
+  },
+  {
+    "cluster": 10,
+    "label": "school, elementary, 19",
+    "auto_label": "school, elementary, 19",
+    "size": 35,
+    "top_outlets": [
+      [
+        "cnn",
+        15
+      ],
+      [
+        "nyt",
+        9
+      ],
+      [
+        "wsj",
+        6
+      ],
+      [
+        "fox",
+        5
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "fatally the deadly shooting at a Texas elementary school 19 children and two adults at an elementary school in Uvalde, Texas,",
+        "outlet": "cnn",
+        "article": "cnn_12_May25"
+      },
+      {
+        "phrase": "fatally a horrific shooting at a Texas elementary school 19 children and two teachers at a Texas elementary school",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "who The heinous attack 19 kids and two teachers at an elementary school in Uvalde, Texas, was a local high school student with few if any friends who officials said",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde, Texas's 18th birthday",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who stormed into an elementary school in Uvalde, Texas on Tuesday with an assault rifle and tactical vest",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde, Texas in a classroom of children and opened fire",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde, Texas",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde, Texas's personal background",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde,",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde, Texas's actions leading up to The heinous attack offer hints at The suspect who killed 19 kids and two teachers at an elementary school in Uvalde, Texas's mindset and plan",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "who killed 19 kids and two teachers at an elementary school in Uvalde, Texas's mindset and plan",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "fatally The shooting 18 children and an adult at a Texas elementary school",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "identified by Texas officials as Salvador Ramos, of Uvalde",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "identified by officials as Salvador Ramos",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "the lives of at least 19 children and two teachers",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "accused of shooting Ramos, an 18-year-old Uvalde, Texas, resident,'s grandmother and then targeting dozens of victims",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "Texas school shooter Salvador Ramos suspected vehicle crash",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "THE Texas SCHOOL SHOOTER",
+        "outlet": "fox",
+        "article": "Fox_21"
+      },
+      {
+        "phrase": "Texas SCHOOL SHOOTER",
+        "outlet": "fox",
+        "article": "Fox_21"
+      },
+      {
+        "phrase": "who the attack 19 children and two teachers in a rural Texas elementary school on Tuesday entered a rural Texas elementary school despite being confronted by an armed school security officer",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "who killed 19 children and two teachers in a rural Texas elementary school on Tuesday just after 1 p.m.",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "who killed 19 children and two teachers in a rural Texas elementary school on Tuesday until more specially trained officers could arrive",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "the Robb Elementary School shooting fire at Robb Elementary School in Uvalde, Texas, a rural town about 80 miles west of San Antonio",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "killing 19 children and two teachers, and wounding several other children",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "The slayings at least 19 children and two adults on Tuesday in a rural Texas elementary school",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "who the attack 19 children and two teachers in a rural Texas elementary school on Tuesday entered a rural Texas elementary school despite being confronted by an armed school security officer",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "who killed 19 children and two teachers in a rural Texas elementary school on Tuesday just after 1 p.m.",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "who killed 19 children and two teachers in a rural Texas elementary school on Tuesday until more specially trained officers could arrive",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "who the mass shooting 19 students and two teachers at an elementary school in Uvalde, Texas,",
+        "outlet": "wsj",
+        "article": "WSJ_16_May26"
+      },
+      {
+        "phrase": "who killed 19 students and two teachers at an elementary school in Uvalde, Texas,'s intention to commit the mass shooting minutes before driving there",
+        "outlet": "wsj",
+        "article": "WSJ_16_May26"
+      },
+      {
+        "phrase": "who killed 19 students and two teachers in an elementary school here",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "who killed 19 students and two teachers in an elementary school",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "who killed 19 students and two teachers in an elementary school here in a two-room fourth-grade classroom that 19 students and two teachers in an elementary school here shared, law-enforcement officials said, and was killed there Tuesday after a shootout with an elite team of Border Patrol agents",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "active school-shooter events",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      }
+    ]
+  },
+  {
+    "cluster": 1,
+    "label": "location / reporting fragments",
+    "auto_label": "texte, allegedly, later",
+    "size": 6,
+    "top_outlets": [
+      [
+        "cnn",
+        6
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "allegedly texte",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "texte",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "later texte",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "allegedly texte",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "texte",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "later texte",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      }
+    ]
+  },
+  {
+    "cluster": 2,
+    "label": "barricade / standoff actions",
+    "auto_label": "barricade, ultimately",
+    "size": 4,
+    "top_outlets": [
+      [
+        "wsj",
+        3
+      ],
+      [
+        "cnn",
+        1
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "barricade",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "barricade",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "barricade",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "ultimately barricade",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "label": "locked-room references",
+    "auto_label": "lock, where",
+    "size": 4,
+    "top_outlets": [
+      [
+        "wsj",
+        4
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "lock",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "where lock",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "where lock",
+        "outlet": "wsj",
+        "article": "WSJ_15_May28"
+      },
+      {
+        "phrase": "where lock",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      }
+    ]
+  }
+]

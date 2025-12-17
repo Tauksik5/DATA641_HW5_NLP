@@ -1,0 +1,1890 @@
+[
+  {
+    "cluster": 0,
+    "label": "child/student victim descriptors",
+    "auto_label": "children, 19, students",
+    "size": 255,
+    "top_outlets": [
+      [
+        "nyt",
+        71
+      ],
+      [
+        "fox",
+        70
+      ],
+      [
+        "cnn",
+        62
+      ],
+      [
+        "wsj",
+        52
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "Nineteen children",
+        "outlet": "cnn",
+        "article": "cnn_10_May25"
+      },
+      {
+        "phrase": "14 students",
+        "outlet": "cnn",
+        "article": "cnn_11_May24_replacement"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_11_May24_replacement"
+      },
+      {
+        "phrase": "one teacher",
+        "outlet": "cnn",
+        "article": "cnn_11_May24_replacement"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_12_May25"
+      },
+      {
+        "phrase": "26 children",
+        "outlet": "cnn",
+        "article": "cnn_12_May25"
+      },
+      {
+        "phrase": "when kill",
+        "outlet": "cnn",
+        "article": "cnn_12_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_13_May25"
+      },
+      {
+        "phrase": "Nineteen children",
+        "outlet": "cnn",
+        "article": "cnn_14_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "20 children",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "aged between 6 and 7 years old",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "a local high school student",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "local school student",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "children",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "students",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "21 dead",
+        "outlet": "cnn",
+        "article": "cnn_18_May25"
+      },
+      {
+        "phrase": "two dead",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "students",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "13 children",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "Two children",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_21_May25"
+      },
+      {
+        "phrase": "dead political",
+        "outlet": "cnn",
+        "article": "cnn_21_May25"
+      },
+      {
+        "phrase": "young children",
+        "outlet": "cnn",
+        "article": "cnn_22_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_23_May25"
+      },
+      {
+        "phrase": "victims",
+        "outlet": "cnn",
+        "article": "cnn_24_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_25_May25"
+      },
+      {
+        "phrase": "dead political",
+        "outlet": "cnn",
+        "article": "cnn_25_May25"
+      },
+      {
+        "phrase": "students",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "13 children",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "Two children",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "14 students",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "13 children",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "a child",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "Eighteen children",
+        "outlet": "cnn",
+        "article": "cnn_4_May24"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_4_May24"
+      },
+      {
+        "phrase": "one teacher",
+        "outlet": "cnn",
+        "article": "cnn_4_May24"
+      },
+      {
+        "phrase": "fatally The shooting 18 children",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "shooting 18 children",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "20 children",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "students",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "young children",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "Parents's children",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "survive",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "children",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "26 children",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "at least 19 children",
+        "outlet": "cnn",
+        "article": "cnn_7_May25"
+      },
+      {
+        "phrase": "19 dead children",
+        "outlet": "cnn",
+        "article": "cnn_7_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_7_May25"
+      },
+      {
+        "phrase": "Nineteen children",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "535 students",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "parents's children",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "survive",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "at least 19 children",
+        "outlet": "cnn",
+        "article": "cnn_9_May25"
+      },
+      {
+        "phrase": "19 dead children",
+        "outlet": "cnn",
+        "article": "cnn_9_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "cnn",
+        "article": "cnn_9_May25"
+      },
+      {
+        "phrase": "18 STUDENTS",
+        "outlet": "fox",
+        "article": "FOX_10_May24"
+      },
+      {
+        "phrase": "ONE ADULT KILLED",
+        "outlet": "fox",
+        "article": "FOX_10_May24"
+      },
+      {
+        "phrase": "UVALDE SUSPECTED SHOOTER DEAD",
+        "outlet": "fox",
+        "article": "FOX_10_May24"
+      },
+      {
+        "phrase": "DEAD",
+        "outlet": "fox",
+        "article": "FOX_10_May24"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "the victims",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "likely kill",
+        "outlet": "fox",
+        "article": "FOX_1_May24"
+      },
+      {
+        "phrase": "14 children",
+        "outlet": "fox",
+        "article": "FOX_3_May24"
+      },
+      {
+        "phrase": "one teacher",
+        "outlet": "fox",
+        "article": "FOX_3_May24"
+      },
+      {
+        "phrase": "dead",
+        "outlet": "fox",
+        "article": "FOX_3_May24"
+      },
+      {
+        "phrase": "die",
+        "outlet": "fox",
+        "article": "FOX_3_May24"
+      },
+      {
+        "phrase": "at least 18 students",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "18 dead students",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "students",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "18 students",
+        "outlet": "fox",
+        "article": "FOX_6_May24"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "fox",
+        "article": "FOX_6_May24"
+      },
+      {
+        "phrase": "one teacher",
+        "outlet": "fox",
+        "article": "FOX_6_May24"
+      },
+      {
+        "phrase": "14 STUDENTS",
+        "outlet": "fox",
+        "article": "FOX_7_May24"
+      },
+      {
+        "phrase": "ONE TEACHER KILLED",
+        "outlet": "fox",
+        "article": "FOX_7_May24"
+      },
+      {
+        "phrase": "ONE TEACHER",
+        "outlet": "fox",
+        "article": "FOX_7_May24"
+      },
+      {
+        "phrase": "TEACHER KILLED",
+        "outlet": "fox",
+        "article": "FOX_7_May24"
+      },
+      {
+        "phrase": "SUSPECTED SHOOTER DEAD",
+        "outlet": "fox",
+        "article": "FOX_7_May24"
+      },
+      {
+        "phrase": "our children",
+        "outlet": "fox",
+        "article": "FOX_8_May24"
+      },
+      {
+        "phrase": "18 STUDENTS",
+        "outlet": "fox",
+        "article": "FOX_8_May24"
+      },
+      {
+        "phrase": "ONE ADULT KILLED",
+        "outlet": "fox",
+        "article": "FOX_8_May24"
+      },
+      {
+        "phrase": "SUSPECTED SHOOTER DEAD",
+        "outlet": "fox",
+        "article": "FOX_8_May24"
+      },
+      {
+        "phrase": "a child",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "lose",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "at least 18 students",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "18 students",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "bringyour children",
+        "outlet": "fox",
+        "article": "Fox_11"
+      },
+      {
+        "phrase": "at least 19 children",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "the victims",
+        "outlet": "fox",
+        "article": "Fox_12"
+      },
+      {
+        "phrase": "victims",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "children",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "ultimately killing19",
+        "outlet": "fox",
+        "article": "Fox_13"
+      },
+      {
+        "phrase": "students",
+        "outlet": "fox",
+        "article": "Fox_14"
+      },
+      {
+        "phrase": "at least 19 children",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "eight students",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "where lose",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "a child",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "dead",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "a child envisions",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "These children",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "4,000 students",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "Two Robb Elementary School students",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "Two School students",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "a student",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "a 10-year-old student",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "old student",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "Several dozen family members's children",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "the victims",
+        "outlet": "fox",
+        "article": "Fox_19"
+      },
+      {
+        "phrase": "a victim",
+        "outlet": "fox",
+        "article": "Fox_21"
+      },
+      {
+        "phrase": "at least 19 children",
+        "outlet": "fox",
+        "article": "Fox_22"
+      },
+      {
+        "phrase": "19 dead children",
+        "outlet": "fox",
+        "article": "Fox_22"
+      },
+      {
+        "phrase": "at least 19 students",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "19 students",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "a family member of one of at least 19 students at Robb Elementary School in Uvalde, Texas",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "the country's own children",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "own children",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "fatally shoot",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "at least 19 children",
+        "outlet": "fox",
+        "article": "Fox_24"
+      },
+      {
+        "phrase": "19 dead children",
+        "outlet": "fox",
+        "article": "Fox_24"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "fox",
+        "article": "Fox_24"
+      },
+      {
+        "phrase": "children",
+        "outlet": "nyt",
+        "article": "NYT_10_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "nyt",
+        "article": "NYT_11_May26"
+      },
+      {
+        "phrase": "where kill",
+        "outlet": "nyt",
+        "article": "NYT_11_May26"
+      },
+      {
+        "phrase": "elementary school children",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "school children",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "children",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "children's schools",
+        "outlet": "nyt",
+        "article": "NYT_14_May26"
+      },
+      {
+        "phrase": "America's children",
+        "outlet": "nyt",
+        "article": "NYT_15_May26"
+      },
+      {
+        "phrase": "your child",
+        "outlet": "nyt",
+        "article": "NYT_15_May26"
+      },
+      {
+        "phrase": "dead",
+        "outlet": "nyt",
+        "article": "NYT_15_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "nyt",
+        "article": "NYT_16_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_16_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "20 children",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "their children's children",
+        "outlet": "nyt",
+        "article": "NYT_19_May26"
+      },
+      {
+        "phrase": "victim",
+        "outlet": "nyt",
+        "article": "NYT_1_May25"
+      },
+      {
+        "phrase": "defeat",
+        "outlet": "nyt",
+        "article": "NYT_1_May25"
+      },
+      {
+        "phrase": "a Sandy Hook victim",
+        "outlet": "nyt",
+        "article": "NYT_1_May25"
+      },
+      {
+        "phrase": "Hook victim",
+        "outlet": "nyt",
+        "article": "NYT_1_May25"
+      },
+      {
+        "phrase": "And now 19 elementary school students",
+        "outlet": "nyt",
+        "article": "NYT_20_May26"
+      },
+      {
+        "phrase": "19 school students",
+        "outlet": "nyt",
+        "article": "NYT_20_May26"
+      },
+      {
+        "phrase": "killed in Uvalde, Texas",
+        "outlet": "nyt",
+        "article": "NYT_20_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_20_May26"
+      },
+      {
+        "phrase": "19 elementary school students",
+        "outlet": "nyt",
+        "article": "NYT_20_May26"
+      },
+      {
+        "phrase": "shooting 19 children",
+        "outlet": "nyt",
+        "article": "NYT_21_May26"
+      },
+      {
+        "phrase": "an honor-roll student",
+        "outlet": "nyt",
+        "article": "NYT_21_May26"
+      },
+      {
+        "phrase": "roll student",
+        "outlet": "nyt",
+        "article": "NYT_21_May26"
+      },
+      {
+        "phrase": "children",
+        "outlet": "nyt",
+        "article": "NYT_22_May27"
+      },
+      {
+        "phrase": "children's pain",
+        "outlet": "nyt",
+        "article": "NYT_22_May27"
+      },
+      {
+        "phrase": "children's age",
+        "outlet": "nyt",
+        "article": "NYT_22_May27"
+      },
+      {
+        "phrase": "two young children",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "young children",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "murder",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "then a teacher",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "being killed",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "a public school's students",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "several other children",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "students",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "victims",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "the 19 dead students",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "19 dead students",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "young children",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "my fourth-grade teacher",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "grade teacher",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "often lose",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "at least 19 children",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "At least one teacher",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "one teacher",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "several other children",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "18 elementary school children",
+        "outlet": "nyt",
+        "article": "NYT_3_May25"
+      },
+      {
+        "phrase": "18 school children",
+        "outlet": "nyt",
+        "article": "NYT_3_May25"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "nyt",
+        "article": "NYT_3_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "nyt",
+        "article": "NYT_4_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_4_May25"
+      },
+      {
+        "phrase": "14 children",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "20 children",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "19 school children",
+        "outlet": "nyt",
+        "article": "NYT_8_May26"
+      },
+      {
+        "phrase": "a teacher and another adult at a school in the town of Uvalde",
+        "outlet": "nyt",
+        "article": "NYT_8_May26"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "nyt",
+        "article": "NYT_8_May26"
+      },
+      {
+        "phrase": "20 elementary school children",
+        "outlet": "nyt",
+        "article": "NYT_9_May26"
+      },
+      {
+        "phrase": "20 school children",
+        "outlet": "nyt",
+        "article": "NYT_9_May26"
+      },
+      {
+        "phrase": "honor",
+        "outlet": "nyt",
+        "article": "NYT_9_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "her children",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "second and third grade's children",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "the other students",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "other students",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "children",
+        "outlet": "wsj",
+        "article": "WSJ_11_May26"
+      },
+      {
+        "phrase": "children",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "Ultimately find",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "19 students",
+        "outlet": "wsj",
+        "article": "WSJ_16_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_16_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_17_May28"
+      },
+      {
+        "phrase": "where murder",
+        "outlet": "wsj",
+        "article": "WSJ_17_May28"
+      },
+      {
+        "phrase": "children",
+        "outlet": "wsj",
+        "article": "WSJ_17_May28"
+      },
+      {
+        "phrase": "Another mother's children",
+        "outlet": "wsj",
+        "article": "WSJ_17_May28"
+      },
+      {
+        "phrase": "at least 19 students",
+        "outlet": "wsj",
+        "article": "WSJ_1_May25"
+      },
+      {
+        "phrase": "19 students",
+        "outlet": "wsj",
+        "article": "WSJ_1_May25"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_1_May25"
+      },
+      {
+        "phrase": "a teacher",
+        "outlet": "wsj",
+        "article": "WSJ_1_May25"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_21_May31"
+      },
+      {
+        "phrase": "students",
+        "outlet": "wsj",
+        "article": "WSJ_21_May31"
+      },
+      {
+        "phrase": "small children",
+        "outlet": "wsj",
+        "article": "WSJ_22_May31"
+      },
+      {
+        "phrase": "the 21 victims",
+        "outlet": "wsj",
+        "article": "WSJ_23_May31"
+      },
+      {
+        "phrase": "21 victims",
+        "outlet": "wsj",
+        "article": "WSJ_23_May31"
+      },
+      {
+        "phrase": "children",
+        "outlet": "wsj",
+        "article": "WSJ_23_May31"
+      },
+      {
+        "phrase": "Ultimately kill",
+        "outlet": "wsj",
+        "article": "WSJ_23_May31"
+      },
+      {
+        "phrase": "gunned down in their elementary school",
+        "outlet": "wsj",
+        "article": "WSJ_23_May31"
+      },
+      {
+        "phrase": "the 21 victims",
+        "outlet": "wsj",
+        "article": "WSJ_24_May31"
+      },
+      {
+        "phrase": "21 victims",
+        "outlet": "wsj",
+        "article": "WSJ_24_May31"
+      },
+      {
+        "phrase": "Trump's adult children",
+        "outlet": "wsj",
+        "article": "WSJ_25_May27"
+      },
+      {
+        "phrase": "adult children",
+        "outlet": "wsj",
+        "article": "WSJ_25_May27"
+      },
+      {
+        "phrase": "19 students",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "live die",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_3_May26"
+      },
+      {
+        "phrase": "the 19 children",
+        "outlet": "wsj",
+        "article": "WSJ_4_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_4_May26"
+      },
+      {
+        "phrase": "four children",
+        "outlet": "wsj",
+        "article": "WSJ_4_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_4_May26"
+      },
+      {
+        "phrase": "killed this week at Robb Elementary School in the deadliest school shooting in a decade",
+        "outlet": "wsj",
+        "article": "WSJ_4_May26"
+      },
+      {
+        "phrase": "19 students",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "here kill",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      },
+      {
+        "phrase": "the victims",
+        "outlet": "wsj",
+        "article": "WSJ_7_May26"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_8_May27"
+      },
+      {
+        "phrase": "19 children",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      },
+      {
+        "phrase": "kill",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      },
+      {
+        "phrase": "20 children",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      },
+      {
+        "phrase": "where die",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      },
+      {
+        "phrase": "17 students",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "label": "noise",
+    "auto_label": "noise",
+    "size": 71,
+    "top_outlets": [
+      [
+        "nyt",
+        33
+      ],
+      [
+        "cnn",
+        20
+      ],
+      [
+        "fox",
+        12
+      ],
+      [
+        "wsj",
+        6
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "steal",
+        "outlet": "cnn",
+        "article": "cnn_10_May25"
+      },
+      {
+        "phrase": "steal",
+        "outlet": "cnn",
+        "article": "cnn_14_May25"
+      },
+      {
+        "phrase": "pronounce",
+        "outlet": "cnn",
+        "article": "cnn_15_May25"
+      },
+      {
+        "phrase": "set",
+        "outlet": "cnn",
+        "article": "cnn_17_May25"
+      },
+      {
+        "phrase": "receive",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "transport",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "target",
+        "outlet": "cnn",
+        "article": "cnn_22_May25"
+      },
+      {
+        "phrase": "Black people, Asian Americans, random citizens and politicians from both parties",
+        "outlet": "cnn",
+        "article": "cnn_22_May25"
+      },
+      {
+        "phrase": "receive",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "who were being treated for various injuries",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "transport",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "treat",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "receive",
+        "outlet": "cnn",
+        "article": "cnn_3_May24"
+      },
+      {
+        "phrase": "believe",
+        "outlet": "cnn",
+        "article": "cnn_4_May24"
+      },
+      {
+        "phrase": "confirm",
+        "outlet": "cnn",
+        "article": "cnn_4_May24"
+      },
+      {
+        "phrase": "set",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "begin",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "identify",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "mark",
+        "outlet": "cnn",
+        "article": "cnn_6_May25"
+      },
+      {
+        "phrase": "identify",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "allegedly unleash",
+        "outlet": "fox",
+        "article": "FOX_2_May24"
+      },
+      {
+        "phrase": "GOV",
+        "outlet": "fox",
+        "article": "FOX_7_May24"
+      },
+      {
+        "phrase": "protect",
+        "outlet": "fox",
+        "article": "FOX_8_May24"
+      },
+      {
+        "phrase": "save",
+        "outlet": "fox",
+        "article": "FOX_8_May24"
+      },
+      {
+        "phrase": "where feel",
+        "outlet": "fox",
+        "article": "Fox_14"
+      },
+      {
+        "phrase": "save",
+        "outlet": "fox",
+        "article": "Fox_14"
+      },
+      {
+        "phrase": "force",
+        "outlet": "fox",
+        "article": "Fox_15"
+      },
+      {
+        "phrase": "never forget",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "Tucker",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "who were missing hours",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "also miss",
+        "outlet": "fox",
+        "article": "Fox_17"
+      },
+      {
+        "phrase": "encourage",
+        "outlet": "fox",
+        "article": "Fox_23"
+      },
+      {
+        "phrase": "already see",
+        "outlet": "nyt",
+        "article": "NYT_15_May26"
+      },
+      {
+        "phrase": "take",
+        "outlet": "nyt",
+        "article": "NYT_15_May26"
+      },
+      {
+        "phrase": "see",
+        "outlet": "nyt",
+        "article": "NYT_15_May26"
+      },
+      {
+        "phrase": "breach",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "not know",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "identify",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "release",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "walk",
+        "outlet": "nyt",
+        "article": "NYT_20_May26"
+      },
+      {
+        "phrase": "surpass",
+        "outlet": "nyt",
+        "article": "NYT_20_May26"
+      },
+      {
+        "phrase": "make",
+        "outlet": "nyt",
+        "article": "NYT_21_May26"
+      },
+      {
+        "phrase": "when burst",
+        "outlet": "nyt",
+        "article": "NYT_21_May26"
+      },
+      {
+        "phrase": "raise",
+        "outlet": "nyt",
+        "article": "NYT_22_May27"
+      },
+      {
+        "phrase": "train",
+        "outlet": "nyt",
+        "article": "NYT_23_May27"
+      },
+      {
+        "phrase": "wound",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "prepare",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "victims's funeral services",
+        "outlet": "nyt",
+        "article": "NYT_24_May27"
+      },
+      {
+        "phrase": "offer",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "imagine",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "Mrs. Sims, armed",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "wear",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "Mrs. Sims",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "Mrs. Sims,'s markers in my fourth-grade teacher, Mrs. Sims,",
+        "outlet": "nyt",
+        "article": "NYT_25_May27"
+      },
+      {
+        "phrase": "wound",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "Uvalde's children's safety and law enforcement officials",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "happen",
+        "outlet": "nyt",
+        "article": "NYT_3_May25"
+      },
+      {
+        "phrase": "four or more fatalities",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "four fatalities",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "involve",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "walk",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "breach",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "not know",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "identify",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "release",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "barricade",
+        "outlet": "wsj",
+        "article": "WSJ_10_May27"
+      },
+      {
+        "phrase": "a child whispering",
+        "outlet": "wsj",
+        "article": "WSJ_14_May28"
+      },
+      {
+        "phrase": "storm",
+        "outlet": "wsj",
+        "article": "WSJ_17_May28"
+      },
+      {
+        "phrase": "protect",
+        "outlet": "wsj",
+        "article": "WSJ_21_May31"
+      },
+      {
+        "phrase": "take",
+        "outlet": "wsj",
+        "article": "WSJ_2_May26"
+      },
+      {
+        "phrase": "share",
+        "outlet": "wsj",
+        "article": "WSJ_6_May26"
+      }
+    ]
+  },
+  {
+    "cluster": 2,
+    "label": "aftermath / casualties",
+    "auto_label": "shoot",
+    "size": 8,
+    "top_outlets": [
+      [
+        "nyt",
+        4
+      ],
+      [
+        "cnn",
+        2
+      ],
+      [
+        "fox",
+        1
+      ],
+      [
+        "wsj",
+        1
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "shoot",
+        "outlet": "cnn",
+        "article": "cnn_11_May24_replacement"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "cnn",
+        "article": "cnn_8_May25"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "fox",
+        "article": "FOX_9_May24"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "nyt",
+        "article": "NYT_18_May26"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "nyt",
+        "article": "NYT_2_May25"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "nyt",
+        "article": "NYT_5_May25"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "nyt",
+        "article": "NYT_6_May25"
+      },
+      {
+        "phrase": "shoot",
+        "outlet": "wsj",
+        "article": "WSJ_16_May26"
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "label": "counts / inclusion phrasing",
+    "auto_label": "leave",
+    "size": 15,
+    "top_outlets": [
+      [
+        "cnn",
+        9
+      ],
+      [
+        "fox",
+        5
+      ],
+      [
+        "wsj",
+        1
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_18_May25"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_21_May25"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_25_May25"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_7_May25"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "cnn",
+        "article": "cnn_9_May25"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "fox",
+        "article": "FOX_3_May24"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "fox",
+        "article": "FOX_5_May24"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "fox",
+        "article": "Fox_16"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "fox",
+        "article": "Fox_22"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "fox",
+        "article": "Fox_24"
+      },
+      {
+        "phrase": "leave",
+        "outlet": "wsj",
+        "article": "WSJ_9_May27"
+      }
+    ]
+  },
+  {
+    "cluster": 4,
+    "label": "include",
+    "auto_label": "include",
+    "size": 5,
+    "top_outlets": [
+      [
+        "cnn",
+        4
+      ],
+      [
+        "wsj",
+        1
+      ]
+    ],
+    "phrases": [
+      {
+        "phrase": "include",
+        "outlet": "cnn",
+        "article": "cnn_16_May25"
+      },
+      {
+        "phrase": "include",
+        "outlet": "cnn",
+        "article": "cnn_1_May24"
+      },
+      {
+        "phrase": "include",
+        "outlet": "cnn",
+        "article": "cnn_2_May24"
+      },
+      {
+        "phrase": "include",
+        "outlet": "cnn",
+        "article": "cnn_5_May24"
+      },
+      {
+        "phrase": "include",
+        "outlet": "wsj",
+        "article": "WSJ_1_May25"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "shooter":{
+    "chi2":3.3168947398,
+    "p_value":0.768149857,
+    "dof":6,
+    "expected":[
+      [
+        39.75,
+        24.91,
+        20.14,
+        21.2
+      ],
+      [
+        22.125,
+        13.865,
+        11.21,
+        11.8
+      ],
+      [
+        13.125,
+        8.225,
+        6.65,
+        7.0
+      ]
+    ],
+    "clusters":[
+      "gunman identity\/age descriptors",
+      "noise\/fragments",
+      "school\/event framing"
+    ],
+    "table":{
+      "cnn":{
+        "gunman identity\/age descriptors":39,
+        "noise\/fragments":21,
+        "school\/event framing":15
+      },
+      "fox":{
+        "gunman identity\/age descriptors":28,
+        "noise\/fragments":14,
+        "school\/event framing":5
+      },
+      "nyt":{
+        "gunman identity\/age descriptors":18,
+        "noise\/fragments":11,
+        "school\/event framing":9
+      },
+      "wsj":{
+        "gunman identity\/age descriptors":21,
+        "noise\/fragments":13,
+        "school\/event framing":6
+      }
+    }
+  },
+  "victim":{
+    "chi2":26.3453966379,
+    "p_value":0.000191956,
+    "dof":6,
+    "expected":[
+      [
+        68.0498533724,
+        65.0586510264,
+        77.7712609971,
+        44.1202346041
+      ],
+      [
+        18.9472140762,
+        18.1143695015,
+        21.6539589443,
+        12.284457478
+      ],
+      [
+        4.0029325513,
+        3.8269794721,
+        4.5747800587,
+        2.5953079179
+      ]
+    ],
+    "clusters":[
+      "child\/student victims",
+      "noise\/fragments",
+      "counts\/inclusion"
+    ],
+    "table":{
+      "cnn":{
+        "child\/student victims":62,
+        "noise\/fragments":20,
+        "counts\/inclusion":9
+      },
+      "fox":{
+        "child\/student victims":70,
+        "noise\/fragments":12,
+        "counts\/inclusion":5
+      },
+      "nyt":{
+        "child\/student victims":71,
+        "noise\/fragments":33,
+        "counts\/inclusion":0
+      },
+      "wsj":{
+        "child\/student victims":52,
+        "noise\/fragments":6,
+        "counts\/inclusion":1
+      }
+    }
+  }
+}

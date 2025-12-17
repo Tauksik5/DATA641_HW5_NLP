@@ -1,0 +1,8 @@
+cluster_label,cnn,fox,nyt,wsj
+barricade/standoff,1,0,0,3
+gunman identity/age descriptors,39,28,18,21
+location fragments,6,0,0,0
+locked-room references,0,0,0,4
+noise/fragments,21,14,11,13
+school/event framing,15,5,9,6
+shooter actions,10,3,5,3
